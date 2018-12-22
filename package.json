@@ -1,0 +1,19 @@
+{
+  "name": "weatherapp-nodejs-gui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mittalHimanshu/weatherApp-NodeJs-GUI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mittalHimanshu/weatherApp-NodeJs-GUI/issues"
+  },
+  "homepage": "https://github.com/mittalHimanshu/weatherApp-NodeJs-GUI#readme"
+}

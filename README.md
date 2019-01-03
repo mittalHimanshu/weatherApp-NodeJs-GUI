@@ -6,9 +6,16 @@ NodeJS app to find weather condition of any city.
 
 <a href="https://protected-wildwood-59223.herokuapp.com/">Click Here to know weather condition of your city</a>
 
-## Setup
+## Screenshots
 
-Coming Soon....
+Enter City name
+
+![Enter City name](https://mittalhimanshu151.000webhostapp.com/Images/Weather-App/1.PNG)
+
+Click Search button
+
+![Click Check button](https://mittalhimanshu151.000webhostapp.com/Images/Weather-App/2.PNG))
+
 
 ## License
 
@@ -16,3 +23,4 @@ Coming Soon....
 
 - **[MIT license](https://github.com/mittalHimanshu/weatherApp-NodeJs-GUI/blob/master/LICENSE)**
 - Copyright 2018 © <a href="https://github.com/mittalHimanshu" target="_blank">Himanshu Mittal</a>.
+
